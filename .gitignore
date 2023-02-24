@@ -1,0 +1,5 @@
+# Migrations
+dbschema/migrations
+
+# IDEs and editors
+.vscode
